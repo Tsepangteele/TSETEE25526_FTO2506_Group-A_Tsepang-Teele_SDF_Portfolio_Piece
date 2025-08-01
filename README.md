@@ -1,121 +1,79 @@
-# 💼 SDFPP Resume Project
+# 💼 Tsepang Teele – Resume Portfolio Project
 
-Welcome to your first major **portfolio project** in the Software Development Program is a resume project (SDFPP). In this challenge, using a [Figma design file](https://www.figma.com/design/fM2tutgIH0k1SrNir4MVe3/SDF-Resume-Project-STUDENT-REFERENCE-FILE?node-id=0-1&t=yGSXI1yv4AgjKBvA-1) as reference, you’ll create your very own online resume — a personal website that shows off your skills, experience, and code style using **HTML and CSS**.
-
-This is not just practice — this is something you can proudly include in your portfolio and share with future employers!
+Welcome to my Resume Portfolio, a personal project built using **HTML** and **CSS**. I tried to make a clean, responsive representation of my professional journey, development skills, and aspirations in the world of tech.
 
 ---
 
-## 📌 Project Overview
-
-**Project Name:** Resume Project  
-**Difficulty:** Beginner–Intermediate  
-**Goal:** Replicate a Figma design of a resume site as accurately as possible using HTML and CSS  
-**Tools Required:** HTML5, CSS3, Git, GitHub  
-**Deployment:** Not required — site must run locally in browser  
-**Submission Includes:**
-- A link to your GitHub repo
-- A screen recording of your presentation (5–10 minutes)
-- A complete README (you’re reading it!)
-
- 🎨Link to Figma Reference File: https://www.figma.com/design/fM2tutgIH0k1SrNir4MVe3/SDF-Resume-Project-STUDENT-REFERENCE-FILE?node-id=0-1&t=yGSXI1yv4AgjKBvA-1
+## 🎯 Purpose of the Project
+  
+It demonstrates my ability to:
+- Structure semantic HTML
+- Style consistently with CSS
+- Build somewhat responsive layouts using flexbox, grid and media queries.
 
 ---
 
-## 🧠 What You'll Build
+## 🎥 Screen Recording Presentation
 
-You will build a fully responsive, Figma-matching resume site that includes the following sections:
-
-- Profile & Summary
-- Proficiency Bars
-- Skills Tags
-- Projects Grid
-- Education & Work History
-- Tools Section
-- Contact Footer
+Watch my 10 minute walkthrough here 👉  
+🔗 [Click here to view the video](PASTE_YOUR_LOOM_OR_DRIVE_LINK_HERE)
 
 ---
 
-## 🧪 How You’ll Be Marked
 
-Your project will be assessed using **two components**:
+## 🖥️ Key Sections in the Portfolio
 
-### ✅ 1. Code & Layout Marking 
-Each section of your resume site is scored based on:
-- Use of semantic HTML and correct structure
-- Accurate styling, spacing, typography, and colour matching the Figma
-- Pixel accuracy for layout and alignment
-- Responsive layout on mobile screens
-- Clean and well-structured code
-- Functional and visually polished components
-- Accessibility (e.g., alt text for images and icons)
+### 👤 Profile & Summary
+Introduces who I am and what I bring to the table. Uses Flexbox for side-by-side layout of image and bio.
 
-> A full breakdown of the scoring rubric is available on your Dashboard. Each feature is mapped to a clear user story and assigned a difficulty rating. Some features offer bonus points for pixel-perfection ✨
+### 📊 Proficiency
+Progress bars visually show my self-assessed strengths.
 
-### 🎙️ 2. Recorded Presentation 
-You must record a **5–10 minute** screen presentation of your project using Loom, OBS, or any screen recorder.
 
-You will be scored on:
-- How well you explain your code and decisions
-- Understanding and communication of the project brief
-- Visual walkthrough of your site and responsiveness
-- Presentation skills (confidence, clarity, visual aids)
+### 🛠️ Skills
+Styled skill tags highlighting my abilities in:
+- Agile
+- Problem Solving
+- RESTful APIs
+- UI Design
+- Version Control (Git)
+- Team Collaboration
 
-📎 [View the Presentation Template Here](https://github.com/CodeSpace-Academy/SDFPP-2025/blob/main/project%20guide/presentation_template.md)
+### 💻 Projects
+Showcases 4 sample projects with brief descriptions, tech stacks, and responsibilities.
 
----
+### 🎓 Education & Tools
+A two-column layout displaying my academic background and tech/design tools I’ve worked with.
 
-## ✅ Submission Requirements
+### 💼 Experience
+Work history displayed in professional info cards styled with custom colors.
 
-To pass this project, you must submit the following:
-
-| Task | Required |
-|------|----------|
-| All required sections built | ✅ |
-| Semantic, readable HTML | ✅ |
-| Well-organised, responsive CSS | ✅ |
-| GitHub repo with clean commit history | ✅ |
-| README file with project info | ✅ |
-| 5–10 minute video presentation | ✅ |
+### 📩 Footer
+Contact section with placeholder links and an inviting call to action.
 
 ---
 
-## 🧰 Project Setup Instructions
+## 💡 What I Learned
 
-1. Clone your starter project folder (or create a new repo)
-2. Build your site using HTML and CSS
-3. Test it on different screen sizes
-4. Use Git to track your progress with frequent commits
-5. Record your presentation walkthrough
-6. Submit your GitHub link + recording link via the LMS
-
----
-
-## 🎯 Extra Credit (Bonus Points)
-
-You can earn bonus marks for:
-- A **pixel-perfect build** that is accurate within 10px of the Figma
-- Thoughtful use of layout tools (Grid, Flexbox)
-- Polished hover states and accessibility improvements
-- High-quality code that’s modular and scalable
+Through this project, I improved my understanding of:
+- Responsive web design techniques
+- Box model debugging
+- Layout planning using Figma as inspiration
+- Writing maintainable and readable CSS
 
 ---
 
-## 📩 Submit Your Project
+## 🔮 Future Improvements
 
-- ✅ Make sure the naming convention of your repo is correct
-- ✅ Include this README file in your repo  
-- ✅ Add your 5–10 min presentation video link to Google Drive (or similar) and share it with your coach 
-- ✅ Paste your video link in your README 
-- ✅ Push your project to your SDFPP GitHub repo
-- ✅ Submit your SDFPP GitHub repo link to the LMS
+If I had more time, I’d love to:
+- make my profile section cleaner and more aligned.
+- work on my media queries so that they stack they way they should on mobile without breaking my desktop layout.
 
 ---
 
-## 🙌 Good Luck!
+## 🧑🏽‍💻 About Me
 
-Take your time. Follow the walkthrough. Ask for help if you need it.
+I’m Tsepang Teele — a passionate aspiring developer who aims for clean design, structured code and responsive layouts.
 
-You're not just building a resume site — you're building confidence, skills, and a real piece of your future portfolio.
 
-**You’ve got this. Let’s go! 🚀**
+email me at: tsepangteele@gmail.com
