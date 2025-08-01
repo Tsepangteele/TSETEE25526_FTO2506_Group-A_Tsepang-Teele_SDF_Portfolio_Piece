@@ -68,7 +68,9 @@ Through this project, I improved my understanding of:
 
 If I had more time, I’d love to:
 - make my profile section cleaner and more aligned.
-- work on my media queries so that they stack they way they should on mobile without breaking my desktop layout.
+- work on my media queries so that they stack they way the should on mobile without breaking my desktop layout.
+- make sure my heart within my project section is in the right place.
+- make sure that the bullet points in my experience section are aligned.
 
 ---
 
