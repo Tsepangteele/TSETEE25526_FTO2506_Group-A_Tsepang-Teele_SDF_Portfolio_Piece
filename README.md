@@ -15,8 +15,9 @@ It demonstrates my ability to:
 
 ## 🎥 Screen Recording Presentation
 
-Watch my 10 minute walkthrough here 👉  
-🔗 [Click here to view the video](PASTE_YOUR_LOOM_OR_DRIVE_LINK_HERE)
+Watch my 10 minute walkthrough on my google drive below  
+
+🔗  https://drive.google.com/drive/folders/1wyGbtyq44fGUTdV_5ecS3pslSB18OzCE?usp=drive_link
 
 ---
 
